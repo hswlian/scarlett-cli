@@ -1,0 +1,21 @@
+{
+  "name": "scarlett-cli",
+  "version": "0.2.0",
+  "description": "A simple CLI for creating your projects",
+  "bin": {
+    "scarlett": "bin/scarlett"
+  },
+  "keywords": [
+    "scarlett",
+    "cli",
+    "es6"
+  ],
+  "author": "huasw",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "co": "^4.6.0",
+    "co-prompt": "^1.0.0",
+    "commander": "^2.9.0"
+  }
+}
